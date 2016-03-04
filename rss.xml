@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[eAgency]]></title>
         <description><![CDATA[eAgency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eagency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 02:26:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 02:29:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eagency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c295dff4-83b4-45f0-bdd0-8deb622a2047.jpg">]]></description>
+            <link>https://thegrid.ai/eagency/b12b9bc7-f844-4f68-a54a-cbf34963ddfb/index.html</link>
+            <guid isPermaLink="false">b12b9bc7-f844-4f68-a54a-cbf34963ddfb</guid>
+            <pubDate>Fri, 04 Mar 2016 02:27:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GROW YOUR BUSINESS]]></title>
             <description><![CDATA[<article><h1>GROW YOUR BUSINESS</h1><p>Talk to us about the power of IMP+ACT:- building your brand to futureproof your sales- using marketing to increase turnover and margin - making more sales with eCommerce</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2efb65d600076674898a3b65a097b4aef47cf4f6.jpg"></article>]]></description>
-            <link>undefinedgrow-your-business/index.html</link>
+            <link>https://thegrid.ai/eagency/grow-your-business/index.html</link>
             <guid isPermaLink="false">037ec343-e0e9-4f05-a6af-1bb457b1c9c3</guid>
             <pubDate>Fri, 04 Mar 2016 02:25:19 GMT</pubDate>
         </item>
